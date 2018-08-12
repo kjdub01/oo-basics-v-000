@@ -32,5 +32,8 @@ class Book
     @genre
   end
   
-  def
+  def turn_page
+    
+  end
+  
 end
